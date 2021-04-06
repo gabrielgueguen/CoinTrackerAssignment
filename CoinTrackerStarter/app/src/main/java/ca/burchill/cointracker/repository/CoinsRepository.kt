@@ -12,7 +12,7 @@ import timber.log.Timber
 
 class CoinsRepository (/* inject database dependency here*/) {
 
-      // TODO expose LiveData list of coins to observe
+      // 1 TODO expose LiveData list of coins to observe
 //    val coins: LiveData<List<Coin>> = Transformations.map(database.coinDOA.getCoins()) {
 //        it.asDomainModel()
 //    }
@@ -26,7 +26,7 @@ class CoinsRepository (/* inject database dependency here*/) {
      *
      */
 
-    //TODO
+    // 2 TODO
 //    suspend fun refreshCoins() {
 //        withContext(Dispatchers.IO) {
 //            val coinList = CoinApi.retrofitService.getCoins()
