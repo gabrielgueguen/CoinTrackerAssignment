@@ -33,7 +33,7 @@ In this assignment you are to take the starter code and
 
 The starter code uses the free tier of the ConeMarketCap API, you will need to go to [Coin Market Cap]( https://coinmarketcap.com/api/pricing/ ) and request an API Key for the free tier and change the line
 
- `private const val YOUR_API_KEY = "81c565ce-9f80-4d9a-816f-0e216ca23013"`
+ `private const val YOUR_API_KEY = "OMITEDKEY"`
 
  to use your key instead of the one included in the starter file. The key in the starter file may work for a while, but there is a limited number of free requests that can be made per day wich will quickly run out if everyone uses the same key. 
 
@@ -41,7 +41,7 @@ The starter code uses the free tier of the ConeMarketCap API, you will need to g
 
 ### Notes
 
-* The starter code uses the free tier of the ConeMarketCap API, you will need to go to [Coin Market Cap]( https://coinmarketcap.com/api/pricing/ ) and request an API Key for the free tier and change the line  `private const val YOUR_API_KEY = "81c565ce-9f80-4d9a-816f-0e216ca23013"` to use your key instead of the one included in the starter file. 
+* The starter code uses the free tier of the ConeMarketCap API, you will need to go to [Coin Market Cap]( https://coinmarketcap.com/api/pricing/ ) and request an API Key for the free tier and change the line  `private const val YOUR_API_KEY = "OMITTEDKEY"` to use your key instead of the one included in the starter file. 
 * The key in the starter file may work for a while, but there is a limited number of free requests that can be made per day wich will quickly run out if everyone uses the same key. 
 
 
